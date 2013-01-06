@@ -1,7 +1,14 @@
 AutoLayoutScrollviewTest
 ========================
 
+*Copyright notice at the end of this document*
+
 A sample project for using auto layout in UIScrollView
+
+My current questions
+--------------------
+
+How do I tell my content view to be wide enough to hold all UIImageViews? I have added a horizontal space constraint between Image 1 and Image 2, but that alone does not do the trick. 
 
 Copyright (c) 2013 Alexander v. Below. All rights reserved.
 
