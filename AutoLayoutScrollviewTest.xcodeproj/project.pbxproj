@@ -18,6 +18,8 @@
 		CB42F6BE1699DA23003E2A02 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB42F6BD1699DA23003E2A02 /* Default-568h@2x.png */; };
 		CB42F6C11699DA23003E2A02 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB42F6BF1699DA23003E2A02 /* MainStoryboard.storyboard */; };
 		CB42F6C41699DA23003E2A02 /* ALSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB42F6C31699DA23003E2A02 /* ALSViewController.m */; };
+		CB42F6CC1699E571003E2A02 /* 104101285_525ae3b4cf_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB42F6CA1699E571003E2A02 /* 104101285_525ae3b4cf_o.jpg */; };
+		CB42F6CD1699E571003E2A02 /* 3963425300_3d8c209eca_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB42F6CB1699E571003E2A02 /* 3963425300_3d8c209eca_o.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		CB42F6C01699DA23003E2A02 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		CB42F6C21699DA23003E2A02 /* ALSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ALSViewController.h; sourceTree = "<group>"; };
 		CB42F6C31699DA23003E2A02 /* ALSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ALSViewController.m; sourceTree = "<group>"; };
+		CB42F6CA1699E571003E2A02 /* 104101285_525ae3b4cf_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 104101285_525ae3b4cf_o.jpg; sourceTree = "<group>"; };
+		CB42F6CB1699E571003E2A02 /* 3963425300_3d8c209eca_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3963425300_3d8c209eca_o.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,8 @@
 				CB42F6BF1699DA23003E2A02 /* MainStoryboard.storyboard */,
 				CB42F6C21699DA23003E2A02 /* ALSViewController.h */,
 				CB42F6C31699DA23003E2A02 /* ALSViewController.m */,
+				CB42F6CA1699E571003E2A02 /* 104101285_525ae3b4cf_o.jpg */,
+				CB42F6CB1699E571003E2A02 /* 3963425300_3d8c209eca_o.jpg */,
 				CB42F6AE1699DA23003E2A02 /* Supporting Files */,
 			);
 			path = AutoLayoutScrollviewTest;
@@ -164,6 +170,8 @@
 				CB42F6BC1699DA23003E2A02 /* Default@2x.png in Resources */,
 				CB42F6BE1699DA23003E2A02 /* Default-568h@2x.png in Resources */,
 				CB42F6C11699DA23003E2A02 /* MainStoryboard.storyboard in Resources */,
+				CB42F6CC1699E571003E2A02 /* 104101285_525ae3b4cf_o.jpg in Resources */,
+				CB42F6CD1699E571003E2A02 /* 3963425300_3d8c209eca_o.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
