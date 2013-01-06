@@ -20,6 +20,8 @@
 		CB42F6C41699DA23003E2A02 /* ALSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB42F6C31699DA23003E2A02 /* ALSViewController.m */; };
 		CB42F6CC1699E571003E2A02 /* 104101285_525ae3b4cf_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB42F6CA1699E571003E2A02 /* 104101285_525ae3b4cf_o.jpg */; };
 		CB42F6CD1699E571003E2A02 /* 3963425300_3d8c209eca_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB42F6CB1699E571003E2A02 /* 3963425300_3d8c209eca_o.jpg */; };
+		CB42F6D6169A28B4003E2A02 /* ALSCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CB42F6D5169A28B4003E2A02 /* ALSCollectionViewCell.m */; };
+		CB42F6D8169A2BB9003E2A02 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CB42F6D7169A2BB9003E2A02 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +43,9 @@
 		CB42F6C31699DA23003E2A02 /* ALSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ALSViewController.m; sourceTree = "<group>"; };
 		CB42F6CA1699E571003E2A02 /* 104101285_525ae3b4cf_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 104101285_525ae3b4cf_o.jpg; sourceTree = "<group>"; };
 		CB42F6CB1699E571003E2A02 /* 3963425300_3d8c209eca_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3963425300_3d8c209eca_o.jpg; sourceTree = "<group>"; };
+		CB42F6D4169A28B4003E2A02 /* ALSCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALSCollectionViewCell.h; sourceTree = "<group>"; };
+		CB42F6D5169A28B4003E2A02 /* ALSCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALSCollectionViewCell.m; sourceTree = "<group>"; };
+		CB42F6D7169A2BB9003E2A02 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +65,7 @@
 		CB42F6981699DA23003E2A02 = {
 			isa = PBXGroup;
 			children = (
+				CB42F6D7169A2BB9003E2A02 /* README.md */,
 				CB42F6AD1699DA23003E2A02 /* AutoLayoutScrollviewTest */,
 				CB42F6A61699DA23003E2A02 /* Frameworks */,
 				CB42F6A41699DA23003E2A02 /* Products */,
@@ -92,6 +98,8 @@
 				CB42F6BF1699DA23003E2A02 /* MainStoryboard.storyboard */,
 				CB42F6C21699DA23003E2A02 /* ALSViewController.h */,
 				CB42F6C31699DA23003E2A02 /* ALSViewController.m */,
+				CB42F6D4169A28B4003E2A02 /* ALSCollectionViewCell.h */,
+				CB42F6D5169A28B4003E2A02 /* ALSCollectionViewCell.m */,
 				CB42F6CA1699E571003E2A02 /* 104101285_525ae3b4cf_o.jpg */,
 				CB42F6CB1699E571003E2A02 /* 3963425300_3d8c209eca_o.jpg */,
 				CB42F6AE1699DA23003E2A02 /* Supporting Files */,
@@ -172,6 +180,7 @@
 				CB42F6C11699DA23003E2A02 /* MainStoryboard.storyboard in Resources */,
 				CB42F6CC1699E571003E2A02 /* 104101285_525ae3b4cf_o.jpg in Resources */,
 				CB42F6CD1699E571003E2A02 /* 3963425300_3d8c209eca_o.jpg in Resources */,
+				CB42F6D8169A2BB9003E2A02 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,6 +194,7 @@
 				CB42F6B41699DA23003E2A02 /* main.m in Sources */,
 				CB42F6B81699DA23003E2A02 /* ALSAppDelegate.m in Sources */,
 				CB42F6C41699DA23003E2A02 /* ALSViewController.m in Sources */,
+				CB42F6D6169A28B4003E2A02 /* ALSCollectionViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

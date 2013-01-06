@@ -3,25 +3,32 @@ AutoLayoutScrollviewTest
 
 *Copyright notice at the end of this document*
 
-A sample project for using auto layout in UIScrollView
+After a hint from @jaredsinclair, I changed the whole design to **UICollectionView**. This works rather nicely, for the most part.
 
-My current questions
---------------------
+But, there are still:
 
-How do I tell my content view to be wide enough to hold all UIImageViews? I have added a horizontal space constraint between Image 1 and Image 2, but that alone does not do the trick. 
+Questions
+---------
 
-Copyright (c) 2013 Alexander v. Below. All rights reserved.
+Everything works well in portrait mode, but when I switch to landscape, everything is gone … what gives?
+
+I presume something is wrong with the AutoLayout Constraints of the cell or its imageView, will check that next.
+
+
+The Fine Print
+--------------
+
+Code: Copyright (c) 2013 Alexander v. Below. All rights reserved.
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Pictures used are:
-
+Pictures, used unter [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/deed.en)
 
 http://www.flickr.com/photos/ioerror/104101285/ (Preview restricted)
-By Jacob Appelbaum
 
-and
+Copyright (c) Jacob Appelbaum
+
 
 ![IMG_6248](http://farm3.staticflickr.com/2530/3963425300_5c95e7ff20.jpg "IMG_6248 by erenemre, on Flickr")
 
-By Erin Emre Kasal
+Copyright (c) Erin Emre Kasal

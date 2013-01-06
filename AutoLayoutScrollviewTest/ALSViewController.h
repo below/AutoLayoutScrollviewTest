@@ -11,6 +11,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ALSViewController : UIViewController
+@interface ALSViewController : UICollectionViewController <UICollectionViewDataSource>
 
 @end
