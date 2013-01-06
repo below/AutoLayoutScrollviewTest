@@ -14,6 +14,10 @@ Everything works well in portrait mode, but when I switch to landscape, everythi
 
 I presume something is wrong with the AutoLayout Constraints of the cell or its imageView, will check that next.
 
+The hint I get from the console is: 
+
+	the behavior of the UICollectionViewFlowLayout is not defined because:
+	the item height must be less that the height of the UICollectionView minus the section insets top and bottom values.
 
 The Fine Print
 --------------
